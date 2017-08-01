@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Chris' BIO</title>
+	</head>
+	<body>
+		<h1>Hello, my name is Chris. welcome to my BIO.</h1>
+		<ul title="Character traits:">
+			<li>Age: 34</li>
+			<li></li>
+		<ul>
+		
+		<h6>created by Chris</h6>
+	</body>
+</html>
